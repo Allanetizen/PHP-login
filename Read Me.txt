@@ -1,0 +1,1 @@
+This is the team project for PHP/MYSQL registration form by Group 8
